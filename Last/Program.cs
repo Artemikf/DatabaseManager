@@ -141,7 +141,6 @@ namespace Last
                 Console.WriteLine();
             }
         }
-
         public void plusBlock()     // (3) Добавить новую ячейку
         {
             Base lastBlock = getLast();
